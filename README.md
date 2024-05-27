@@ -1,1 +1,1 @@
-code for pruned gradient descent on MNIST and CIFAR10
+tensorflow code for Pruned Gradient Descent on MNIST and CIFAR10
