@@ -1,1 +1,1 @@
-tensorflow code for Pruned Gradient Descent on MNIST and CIFAR10
+tensorflow code for Occam Gradient Descent on MNIST and CIFAR10
